@@ -52,7 +52,7 @@
 
 本仓库采用 CC BY-SA 4.0 进行许可
 
-# 特别鸣谢金老师：
+# 特别鸣谢金老师、刘老师：
 
 ```C++
 cout << "Thanks for lighting up my code world!" << endl;
