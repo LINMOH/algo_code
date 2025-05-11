@@ -1,6 +1,6 @@
 # 我的信奥代码仓库
 
-[我的洛谷主页](https://www.luogu.com.cn/user/1520652)
+# [我的洛谷主页](https://www.luogu.com.cn/user/1520652)
 
 ## 前言
 
