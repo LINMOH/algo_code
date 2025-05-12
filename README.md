@@ -61,6 +61,9 @@
 
 这里，记录的是我珍贵的青春。
 
+(AC)[https://fecdn.luogu.com.cn/luogu/ac-congrats.png?ce96b99faabe0d91e25e00917ef494af]
+
+
 ## 近期目标
 
 - CSP-J 省一
