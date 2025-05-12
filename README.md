@@ -1,4 +1,10 @@
+<div align="center">
+  
 # 我的信奥代码仓库
+
+</div>
+
+<div align="center">
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
@@ -7,8 +13,7 @@
 ![Repo size](https://img.shields.io/github/repo-size/LINMOH/algo_code)
 [![Luogu](https://img.shields.io/badge/洛谷主页-LINMOH-orange?logo=liberapay&logoColor=white)](https://www.luogu.com.cn/user/1520652)
 
-
-[我的洛谷主页](https://www.luogu.com.cn/user/1520652)
+</div>
 
 ## 前言
 
