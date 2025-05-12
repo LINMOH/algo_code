@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![ac congrats](https://s1.imagehub.cc/images/2025/05/12/2edcaed0d51e8bdeae0dd648761b5dce.th.png)](https://www.imagehub.cc/image/ac-congrats.IEXX3h)
+[![ac congrats](https://s1.imagehub.cc/images/2025/05/12/2edcaed0d51e8bdeae0dd648761b5dce.md.png)](https://www.imagehub.cc/image/ac-congrats.IEXX3h)
 
 </div>
 
