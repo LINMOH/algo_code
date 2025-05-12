@@ -1,6 +1,12 @@
 # 我的信奥代码仓库
 
-# [我的洛谷主页](https://www.luogu.com.cn/user/1520652)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![GitHub stars](https://img.shields.io/github/stars/LINMOH/algo_code?style=social)
+![Last commit](https://img.shields.io/github/last-commit/LINMOH/algo_code)
+![Repo size](https://img.shields.io/github/repo-size/LINMOH/algo_code)
+
+[我的洛谷主页](https://www.luogu.com.cn/user/1520652)
 
 ## 前言
 
