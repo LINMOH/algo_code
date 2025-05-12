@@ -5,6 +5,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/LINMOH/algo_code?style=social)
 ![Last commit](https://img.shields.io/github/last-commit/LINMOH/algo_code)
 ![Repo size](https://img.shields.io/github/repo-size/LINMOH/algo_code)
+[![Luogu](https://img.shields.io/badge/洛谷主页-LINMOH-orange?logo=liberapay&logoColor=white)](https://www.luogu.com.cn/user/1520652)
+
 
 [我的洛谷主页](https://www.luogu.com.cn/user/1520652)
 
