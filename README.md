@@ -9,6 +9,11 @@
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![GitHub stars](https://img.shields.io/github/stars/LINMOH/algo_code?style=social)
+
+</div>
+
+<div align="center">
+
 ![Last commit](https://img.shields.io/github/last-commit/LINMOH/algo_code)
 ![Repo size](https://img.shields.io/github/repo-size/LINMOH/algo_code)
 [![Luogu](https://img.shields.io/badge/洛谷主页-LINMOH-orange?logo=liberapay&logoColor=white)](https://www.luogu.com.cn/user/1520652)
