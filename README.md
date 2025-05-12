@@ -10,7 +10,8 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![GitHub stars](https://img.shields.io/github/stars/LINMOH/algo_code?style=social)
 
-</div>
+</div>(AC)[https://fecdn.luogu.com.cn/luogu/ac-congrats.png?ce96b99faabe0d91e25e00917ef494af]
+
 
 <div align="center">
 
@@ -61,8 +62,7 @@
 
 这里，记录的是我珍贵的青春。
 
-(AC)[https://fecdn.luogu.com.cn/luogu/ac-congrats.png?ce96b99faabe0d91e25e00917ef494af]
-
+![ac congrats](https://s1.imagehub.cc/images/2025/05/12/2edcaed0d51e8bdeae0dd648761b5dce.png)
 
 ## 近期目标
 
