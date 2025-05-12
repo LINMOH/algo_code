@@ -10,6 +10,8 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![GitHub stars](https://img.shields.io/github/stars/LINMOH/algo_code?style=social)
 
+</div>
+
 <div align="center">
 
 ![Last commit](https://img.shields.io/github/last-commit/LINMOH/algo_code)
@@ -59,7 +61,12 @@
 
 这里，记录的是我珍贵的青春。
 
+<div align="center">
+
 ![ac congrats](https://s1.imagehub.cc/images/2025/05/12/2edcaed0d51e8bdeae0dd648761b5dce.png)
+
+</div>
+
 
 ## 近期目标
 
