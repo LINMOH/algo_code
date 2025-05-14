@@ -22,8 +22,6 @@
 
 <div align="center">
 
-[![洛谷用户卡片](https://api.jerryz.com.cn/shield?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
-
 > Debug 是代码的镜子，WA 是思维的警钟；不要害怕 TLE，真正可怕的是从未尝试过最优解。  
 > 从 Hello World! 出发，走过无数 AC 的过程，而算法，永远是我们热爱的方向。  
 > 当你的代码通过所有测试点，世界会安静得只剩下心跳。
