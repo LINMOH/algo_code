@@ -117,5 +117,5 @@ cout << "Thanks for lighting up my code world!" << endl;
 
 我的全体朋友们 —— 在我退缩时给我鼓励，一起熬夜调 bug，一起为 AC 欢呼，是你们让我觉得这条路不孤单。
 
-<font size="5"> 谢谢你们！</font>
+<font size="10"> 谢谢你们！</font>
 
