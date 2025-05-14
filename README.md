@@ -61,11 +61,13 @@
 
 这里，记录的是我珍贵的青春。
 
-<div align="center">
+## 洛谷信息
 
-<a href="https://www.imagehub.cc/image/ac-congrats.IEXX3h"><img src="https://s1.imagehub.cc/images/2025/05/12/2edcaed0d51e8bdeae0dd648761b5dce.md.png" alt="ac congrats" border="0"></a>
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-</div>
+[![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
+
+[![洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=253620&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/253620)
 
 
 ## 近期目标
