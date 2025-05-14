@@ -63,12 +63,15 @@
 
 ## 洛谷信息
 
+<div align="center">
+
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/about?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
 [![1520652的洛谷用户卡片](https://api.jerryz.com.cn/practice?id=1520652&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
-[![洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=253620&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/253620)
+[![洛谷用户卡片](https://api.jerryz.com.cn/guzhi?id=1520652&scores=100,21,0,0,0&dark_mode=true)](https://www.luogu.com.cn/user/1520652)
 
+</div>
 
 ## 近期目标
 
