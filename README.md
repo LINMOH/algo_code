@@ -93,7 +93,7 @@
 
 ## License
 
-本仓库采用 GNU GPLv3 进行许可。
+本仓库遵循 [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) 许可协议。
 
 ## 说明
 
