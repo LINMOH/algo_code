@@ -9,6 +9,7 @@
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![GitHub stars](https://img.shields.io/github/stars/LINMOH/algo_code?style=social)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 </div>
 
